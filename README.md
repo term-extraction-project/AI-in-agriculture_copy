@@ -1,1 +1,2 @@
-# AI-in-agriculture_copy
+# AI-in-agriculture
+FarmYield Pro: AI for Smarter Farming
