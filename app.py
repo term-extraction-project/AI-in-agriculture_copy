@@ -51,7 +51,7 @@ def add_background(image_path):
     )
 
 # Add background image
-add_background("crops-growing-in-thailand.jpg")
+add_background("1.jpg")
 
 # Streamlit app design
 st.title("🌾 Farmer-Friendly Crop Yield Predictor")
