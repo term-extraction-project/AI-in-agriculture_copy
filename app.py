@@ -54,7 +54,7 @@ def add_background(image_path):
 add_background("1.jpg")
 
 # Streamlit app design
-st.title("🌾 Farmer-Friendly Crop Yield Predictor")
+st.title("🌱 Farmer-Friendly Crop Yield Predictor")
 
 # Inputs
 soil_type = st.selectbox("Select Soil Type:", list(crop_recommendations.keys()))
